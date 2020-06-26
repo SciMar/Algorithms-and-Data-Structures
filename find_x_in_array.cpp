@@ -1,6 +1,8 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 /*
+Funkcje wyszukujace zadanej wartosci w tablicy
 	szuk_sort_wart - szukanie w posortowanej tablicy metoda "z wartownikiem"
 	szuk_sort - szukanie w posortowanej tablicy 
 	szuk_wart - szukanie w nieposortowanej tablicy metoda "z wartownikiem"

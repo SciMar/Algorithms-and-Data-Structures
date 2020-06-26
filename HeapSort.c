@@ -1,5 +1,6 @@
 // Heap Sort in C
-#include <stdio.h>
+#i
+nclude <stdio.h>
 
 int licznik = 0;
 
