@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-	
+//adding some comment
 void my_exit();
 void my_return();
 
